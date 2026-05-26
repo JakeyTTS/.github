@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome To JakeyTTS Project
+
+Here you will find the source code of JakeyTTS.com alongside another amazing plugins you can install and use with your JaskeyTTS installation.
 <!--
 
 **Here are some ideas to get you started:**
